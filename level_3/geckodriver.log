@@ -1,0 +1,356 @@
+1560138933039	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eBtNLRCCmIda"
+*** You are running in headless mode.
+1560138933638	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560138933639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560138933639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560138935770	Marionette	INFO	Listening on port 49868
+1560138935887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560138935915	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33754","noProxy":[],"sslProxy":"127.0.0.1:33754"}
+1560138941385	Marionette	INFO	Stopped listening on port 49868
+1560138943327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rgPQrTT59Ce3"
+*** You are running in headless mode.
+1560138943789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560138943790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560138943790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560138945871	Marionette	INFO	Listening on port 56635
+1560138945951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560138945973	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:44137","noProxy":[],"sslProxy":"127.0.0.1:44137"}
+1560138950954	Marionette	INFO	Stopped listening on port 56635
+1560138952963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rXEHfiInTUMr"
+*** You are running in headless mode.
+1560138953424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560138953424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560138953424	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560138955469	Marionette	INFO	Listening on port 51178
+1560138955493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560138955504	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:52799","noProxy":[],"sslProxy":"127.0.0.1:52799"}
+1560138960545	Marionette	INFO	Stopped listening on port 51178
+1560138962597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.lHps9dS9YFjC"
+*** You are running in headless mode.
+1560138963098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560138963098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560138963098	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560138965095	Marionette	INFO	Listening on port 41074
+1560138965115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560138965128	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:48136","noProxy":[],"sslProxy":"127.0.0.1:48136"}
+1560138969810	Marionette	INFO	Stopped listening on port 41074
+1560138971822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OZyyEICKaNXr"
+*** You are running in headless mode.
+1560138972354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560138972354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560138972354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560138974392	Marionette	INFO	Listening on port 50888
+1560138974446	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560138974458	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:34278","noProxy":[],"sslProxy":"127.0.0.1:34278"}
+1560138980349	Marionette	INFO	Stopped listening on port 50888
+1560138982409	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.rWKnTi4rtUGN"
+*** You are running in headless mode.
+1560138982898	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560138982898	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560138982898	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560138984930	Marionette	INFO	Listening on port 59272
+1560138985031	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560138985055	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33402","noProxy":[],"sslProxy":"127.0.0.1:33402"}
+1560138990310	Marionette	INFO	Stopped listening on port 59272
+1560138992310	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pV6TgPR5rDuV"
+*** You are running in headless mode.
+1560138992802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560138992802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560138992803	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560138994830	Marionette	INFO	Listening on port 40577
+1560138994941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560138994966	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:47899","noProxy":[],"sslProxy":"127.0.0.1:47899"}
+1560139000217	Marionette	INFO	Stopped listening on port 40577
+1560139002298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NUw0NT2P4EFs"
+*** You are running in headless mode.
+1560139002832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139002832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139002832	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139004940	Marionette	INFO	Listening on port 39332
+1560139005016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139005028	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:43745","noProxy":[],"sslProxy":"127.0.0.1:43745"}
+1560139010652	Marionette	INFO	Stopped listening on port 39332
+1560139012654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JChHpZdK1xW9"
+*** You are running in headless mode.
+1560139013136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139013136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139013136	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139015192	Marionette	INFO	Listening on port 46174
+1560139015277	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139015298	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:48619","noProxy":[],"sslProxy":"127.0.0.1:48619"}
+1560139020932	Marionette	INFO	Stopped listening on port 46174
+1560139023004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7w6iPLmpU9eX"
+*** You are running in headless mode.
+1560139023585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139023585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139023585	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139025679	Marionette	INFO	Listening on port 60698
+1560139025751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139025765	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:38698","noProxy":[],"sslProxy":"127.0.0.1:38698"}
+1560139031841	Marionette	INFO	Stopped listening on port 60698
+1560139033822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.glzcf1HtE9Do"
+*** You are running in headless mode.
+1560139034339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139034339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139034339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139036334	Marionette	INFO	Listening on port 45658
+1560139036344	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139036354	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:53508","noProxy":[],"sslProxy":"127.0.0.1:53508"}
+1560139041531	Marionette	INFO	Stopped listening on port 45658
+1560139043537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.weDIRDqjGjef"
+*** You are running in headless mode.
+1560139043979	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139043980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139043980	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139046002	Marionette	INFO	Listening on port 55609
+1560139046059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139046069	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42856","noProxy":[],"sslProxy":"127.0.0.1:42856"}
+1560139051447	Marionette	INFO	Stopped listening on port 55609
+1560139053404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KRcIRzjqDG7z"
+*** You are running in headless mode.
+1560139053900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139053901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139053901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139055920	Marionette	INFO	Listening on port 58086
+1560139056035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139056059	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:59414","noProxy":[],"sslProxy":"127.0.0.1:59414"}
+1560139061175	Marionette	INFO	Stopped listening on port 58086
+1560139063702	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ILsg57TmEVzz"
+*** You are running in headless mode.
+1560139064747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139064747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139064747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139067624	Marionette	INFO	Listening on port 36007
+1560139067677	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139067688	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60558","noProxy":[],"sslProxy":"127.0.0.1:60558"}
+1560139073242	Marionette	INFO	Stopped listening on port 36007
+1560139075283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9tFxTXFQJljI"
+*** You are running in headless mode.
+1560139075729	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139075730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139075730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139078260	Marionette	INFO	Listening on port 45610
+1560139078327	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139078348	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:53984","noProxy":[],"sslProxy":"127.0.0.1:53984"}
+1560139084752	Marionette	INFO	Stopped listening on port 45610
+1560139086722	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NNUQ9LXKO31H"
+*** You are running in headless mode.
+1560139087217	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139087218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139087218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139089314	Marionette	INFO	Listening on port 52031
+1560139089355	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139089367	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39964","noProxy":[],"sslProxy":"127.0.0.1:39964"}
+1560139095290	Marionette	INFO	Stopped listening on port 52031
+1560139097240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.d4ubcKeXp1KN"
+*** You are running in headless mode.
+1560139097724	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139097725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139097725	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139099789	Marionette	INFO	Listening on port 40135
+1560139099859	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139099870	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39790","noProxy":[],"sslProxy":"127.0.0.1:39790"}
+1560139105731	Marionette	INFO	Stopped listening on port 40135
+1560139107687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6Igow7T4yWpA"
+*** You are running in headless mode.
+1560139108144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139108144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139108144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139110141	Marionette	INFO	Listening on port 48467
+1560139110214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139110241	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:43643","noProxy":[],"sslProxy":"127.0.0.1:43643"}
+1560139115562	Marionette	INFO	Stopped listening on port 48467
+1560139117587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.uE5UznDCLG4n"
+*** You are running in headless mode.
+1560139118048	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139118049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139118049	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139120090	Marionette	INFO	Listening on port 36998
+1560139120111	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139120122	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:54750","noProxy":[],"sslProxy":"127.0.0.1:54750"}
+1560139125435	Marionette	INFO	Stopped listening on port 36998
+1560139127447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mT0uMXRGfHEH"
+*** You are running in headless mode.
+1560139127946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139127946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139127946	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139130149	Marionette	INFO	Listening on port 54383
+1560139130181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139130222	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:47477","noProxy":[],"sslProxy":"127.0.0.1:47477"}
+1560139134813	Marionette	INFO	Stopped listening on port 54383
+1560139136755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.VJoitlnzHaW6"
+*** You are running in headless mode.
+1560139137246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139137246	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139137247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139139224	Marionette	INFO	Listening on port 57394
+1560139139274	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139139286	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37700","noProxy":[],"sslProxy":"127.0.0.1:37700"}
+1560139144803	Marionette	INFO	Stopped listening on port 57394
+1560139146758	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5x27UZVMzvwH"
+*** You are running in headless mode.
+1560139147212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139147212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139147212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139149242	Marionette	INFO	Listening on port 58464
+1560139149291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139149302	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:53980","noProxy":[],"sslProxy":"127.0.0.1:53980"}
+1560139154161	Marionette	INFO	Stopped listening on port 58464
+1560139156131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.c62P15BEZQug"
+*** You are running in headless mode.
+1560139156631	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139156632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139156632	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139158682	Marionette	INFO	Listening on port 60204
+1560139158756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139158766	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:43324","noProxy":[],"sslProxy":"127.0.0.1:43324"}
+1560139163637	Marionette	INFO	Stopped listening on port 60204
+1560139165638	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6j2KNjWVpJOA"
+*** You are running in headless mode.
+1560139166140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139166140	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139166141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139168093	Marionette	INFO	Listening on port 42791
+1560139168154	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139168164	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:51531","noProxy":[],"sslProxy":"127.0.0.1:51531"}
+1560139173967	Marionette	INFO	Stopped listening on port 42791
+1560139175951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.27RCY9SexfLr"
+*** You are running in headless mode.
+1560139176409	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139176410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139176410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139178393	Marionette	INFO	Listening on port 56503
+1560139178475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139178487	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:45722","noProxy":[],"sslProxy":"127.0.0.1:45722"}
+1560139183818	Marionette	INFO	Stopped listening on port 56503
+1560139185941	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bvDJsA6ThunU"
+*** You are running in headless mode.
+1560139186402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139186403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139186403	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139188430	Marionette	INFO	Listening on port 60346
+1560139188472	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139188482	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:47417","noProxy":[],"sslProxy":"127.0.0.1:47417"}
+1560139193701	Marionette	INFO	Stopped listening on port 60346
+1560139195724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.6NbJaLkVveCZ"
+*** You are running in headless mode.
+1560139196254	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139196255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139196255	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139198383	Marionette	INFO	Listening on port 35637
+1560139198451	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139198464	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:43198","noProxy":[],"sslProxy":"127.0.0.1:43198"}
+1560139204051	Marionette	INFO	Stopped listening on port 35637
+1560139206140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eWsltor4FvH8"
+*** You are running in headless mode.
+1560139206635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139206635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139206635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139208871	Marionette	INFO	Listening on port 55344
+1560139208960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139208971	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:40874","noProxy":[],"sslProxy":"127.0.0.1:40874"}
+1560139214448	Marionette	INFO	Stopped listening on port 55344
+1560139216379	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Yiu4FvuhEiNW"
+*** You are running in headless mode.
+1560139216847	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139216848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139216848	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139219083	Marionette	INFO	Listening on port 40490
+1560139219110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139219120	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:48290","noProxy":[],"sslProxy":"127.0.0.1:48290"}
+1560139224177	Marionette	INFO	Stopped listening on port 40490
+1560139226234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.mvLVYuFOKMNN"
+*** You are running in headless mode.
+1560139226787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139226787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139226787	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139228976	Marionette	INFO	Listening on port 33693
+1560139229059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139229071	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:33692","noProxy":[],"sslProxy":"127.0.0.1:33692"}
+1560139234080	Marionette	INFO	Stopped listening on port 33693
+1560139236201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JAa52rGTHhae"
+*** You are running in headless mode.
+1560139236730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139236730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139236731	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139238962	Marionette	INFO	Listening on port 39404
+1560139239019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139239032	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:53586","noProxy":[],"sslProxy":"127.0.0.1:53586"}
+1560139243771	Marionette	INFO	Stopped listening on port 39404
+1560139245743	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f9Wma9D5gFx3"
+*** You are running in headless mode.
+1560139246265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139246265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139246265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139248425	Marionette	INFO	Listening on port 50144
+1560139248470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139248485	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:39132","noProxy":[],"sslProxy":"127.0.0.1:39132"}
+1560139254034	Marionette	INFO	Stopped listening on port 50144
+1560139256013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.atpZOwV9ssOI"
+*** You are running in headless mode.
+1560139256567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139256567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139256567	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139259123	Marionette	INFO	Listening on port 38898
+1560139259158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139259171	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42584","noProxy":[],"sslProxy":"127.0.0.1:42584"}
+1560139263370	Marionette	INFO	Stopped listening on port 38898
+1560139265302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.46zAePgKEkDj"
+*** You are running in headless mode.
+1560139265779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139265779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139265780	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139268137	Marionette	INFO	Listening on port 59116
+1560139268228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139268244	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:55696","noProxy":[],"sslProxy":"127.0.0.1:55696"}
+1560139272156	Marionette	INFO	Stopped listening on port 59116
+1560139274113	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AMAI5DLnQlAz"
+*** You are running in headless mode.
+1560139274589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139274589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139274589	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139276577	Marionette	INFO	Listening on port 56498
+1560139276630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139276639	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:50736","noProxy":[],"sslProxy":"127.0.0.1:50736"}
+1560139280449	Marionette	INFO	Stopped listening on port 56498
+1560139282365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.qjQeQTlTJq63"
+*** You are running in headless mode.
+1560139282826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139282826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139282826	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139284825	Marionette	INFO	Listening on port 60545
+1560139284882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139284898	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:37061","noProxy":[],"sslProxy":"127.0.0.1:37061"}
+1560139288819	Marionette	INFO	Stopped listening on port 60545
+1560139290718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.l20rrSdOKzzk"
+*** You are running in headless mode.
+1560139291166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139291167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139291167	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139293193	Marionette	INFO	Listening on port 59987
+1560139293240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139293251	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:43874","noProxy":[],"sslProxy":"127.0.0.1:43874"}
+1560139297359	Marionette	INFO	Stopped listening on port 59987
+1560139299306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.K77lMXsWmave"
+*** You are running in headless mode.
+1560139299768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139299768	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139299769	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139301780	Marionette	INFO	Listening on port 35158
+1560139301832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139301848	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42204","noProxy":[],"sslProxy":"127.0.0.1:42204"}
+1560139305834	Marionette	INFO	Stopped listening on port 35158
+1560139307781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T6SxSjHJknA1"
+*** You are running in headless mode.
+1560139308237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139308238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139308238	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560139310239	Marionette	INFO	Listening on port 56967
+1560139310299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1560139310318	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:42464","noProxy":[],"sslProxy":"127.0.0.1:42464"}
+1560139314543	Marionette	INFO	Stopped listening on port 56967
+1560139316520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.cJ3FfG5hB6du"
+*** You are running in headless mode.
+1560139316993	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560139316994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560139316994	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
